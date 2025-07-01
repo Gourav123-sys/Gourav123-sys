@@ -80,7 +80,7 @@ Live dashboard showing real-time cryptocurrency prices (WebSocket simulated).
 - 🌐 Qualified: **Meta Hacker Cup 2023 – Round 1**  
 - ⚡ Qualified: **TCS CodeVita 2025 – Round 1**  
 - 🧩 Solved **500+ problems** across LeetCode, Codeforces, CodeChef, etc.  
-- 🛠️ **Problem Setter** – Monthly BITCODE Contests (HackerRank + HnCC)
+- 🛠️ **Problem Setter** – Monthly BITCODE Contests (HackerRank)
 
 ---
 
