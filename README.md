@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gourav Mondal</h1>
-<h3 align="center">Full Stack MERN Developer | Competitive Programmer | GenAI Explorer</h3>
+<h3 align="center">FullStack Developer | Competitive Programmer | GenAI Explorer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Gourav123-sys&label=Profile%20views&color=0e75b6&style=flat" alt="Gourav123-sys" />
@@ -8,8 +8,6 @@
 ---
 
 🚀 I’m a passionate full stack developer specializing in building scalable, real-time web apps with the MERN stack.
-
-💡 I love clean code, fast UIs, real-time experiences, and solving hard problems (CP & DSA).
 
 🧠 Exploring Generative AI and enhancing UX with smart automation.
 
@@ -33,7 +31,6 @@
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-3E54A3?style=flat-square&logo=render&logoColor=white)
 
 ---
