@@ -1,74 +1,139 @@
 <h1 align="center">Hi 👋, I'm Gourav Mondal</h1>
-<h3 align="center">A Passionate FullStack Developer</h3>
+<h3 align="center">Full Stack MERN Developer | Competitive Programmer | GenAI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gourav123-sys&label=Profile%20views&color=0e75b6&style=flat" alt="gourav123-sys" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gourav123-sys&theme=algolia" alt="gourav123-sys" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Gourav123-sys&label=Profile%20views&color=0e75b6&style=flat" alt="Gourav123-sys" />
 </p>
 
 ---
 
-- 🔭 I’m currently working on **full-stack projects using the MERN stack**
-- 🌱 Actively learning and building skills in **Backend Development (Node.js, Express, MongoDB)**
-- 💬 Ask me about **React.js, Tailwind CSS, and Frontend Development**
-- 📫 Reach me at: **gouravmondal30june2002@gmail.com**
+🎯 Passionate and detail-oriented Full Stack Developer with hands-on experience in building scalable web applications using the **MERN stack**.
+
+🚀 Currently learning and building **real-time**, **secure**, and **responsive** applications by combining modern web technologies, **Socket.IO**, and **Generative AI** tools.
+
+📬 Reach me at: **gouravmondal30june2002@gmail.com**
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
+## 🛠️ Tech Stack & Tools
+
+**Languages:**  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frontend:**  
+![React.js](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)  
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**Backend & Database:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
+
+**Auth & Cloud:**  
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)  
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+
+**Dev Tools:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)  
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 💻 Projects
+
+### 🔷 [Talksy – Real-Time Group Chat Platform](https://full-stack-chat-application-chi.vercel.app/)
+[🔗 GitHub](https://github.com/Gourav123-sys/chat-app)  
+A modern, real-time chat platform built with MERN and **Socket.IO**.  
+• Secure group creation, typing status, online indicators  
+• JWT-based auth, protected routes, Cloudinary image uploads  
+• Fully responsive and scalable architecture
+
+---
+
+### 🚗 [Car Finder – Vehicle Discovery Web App](https://car-finder-jade.vercel.app/)
+[🔗 GitHub](https://github.com/Gourav123-sys/CarFinder)  
+Feature-rich car listing app with advanced filters and cart/wishlist support.  
+• Integrated **NHTSA API** and **Imagin Studio API**  
+• Filter by brand, fuel type, seat capacity  
+• LocalStorage-backed wishlist, cart, dark mode, pagination, responsive UI
+
+---
+
+### 📈 [Crypto Price Tracker – Real-Time Dashboard](https://stock-tracker-flax.vercel.app/)
+[🔗 GitHub](https://github.com/Gourav123-sys/cryptoTracker)  
+Live dashboard showing real-time cryptocurrency prices (WebSocket simulated).  
+• Built with **React.js**, **Redux Toolkit**, and mock WebSockets  
+• Sorting, sparkline charts, mobile-first stacked layout  
+• Efficient state management, fully responsive interface
+
+---
+
+## 🏆 Achievements
+
+- 🥈 **2nd Rank** in ICPC 2023 (Amritapuri Prelims) – College Ranking  
+- 🧠 **Top 30 Finalist** – Smart India Hackathon 2024 (Live Demo Round)  
+- 🌐 Qualified: **Meta Hacker Cup 2023 – Round 1**  
+- ⚡ Qualified: **TCS CodeVita 2025 – Round 1**  
+- 🧩 Solved **500+ problems** across LeetCode, Codeforces, CodeChef, etc.  
+- 🛠️ **Problem Setter** – Monthly BITCODE Contests (HackerRank + HnCC)
+
+---
+
+## 🎓 Education
+
+**Birsa Institute of Technology, Sindri**  
+B.Tech in Electronics and Communication Engineering  
+📆 Nov 2022 – May 2026  
+
+---
+
+## 🧠 Certifications
+
+- ✅ **Full Stack Web Development (MERN + GenAI)** – Udemy  
+[🔗 Certificate](https://www.udemy.com/certificate/UC-a6f2d4e9-2811-4fa4-9345-a61b9847d1f7/)
+
+---
+
+## 🌐 Let's Connect
+
 <p align="left">
   <a href="https://linkedin.com/in/gourav-mondal-55a812204" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gourav-mondal" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
   <a href="https://www.codechef.com/users/gour_av" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gourav30" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" />
   </a>
   <a href="https://www.hackerrank.com/gouravmondal30j1" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gouravmondal30j1" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
   </a>
   <a href="https://codeforces.com/profile/gourav30" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gourav30" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/gourav30" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gourav30" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/gouravmondal30june2002" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gouravmondal30june2002" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages & Tools I Use:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/></a>
-</p>
-
----
-
-<h3>📊 GitHub Stats:</h3>
+## 📊 GitHub Stats
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gourav123-sys&layout=compact&theme=tokyonight" />
-</p>
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gourav123-sys&show_icons=true&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gourav123-sys&layout=compact&theme=tokyonight" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gourav123-sys&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gourav123-sys&show_icons=true&theme=tokyonight" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gourav123-sys&theme=tokyonight" />
 </p>
