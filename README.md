@@ -7,7 +7,7 @@
 
 ---
 
-🚀 I’m a passionate full stack developer specializing in building scalable, real-time web apps with the MERN stack.
+🚀 I’m a passionate FullStack developer specializing in building scalable, real-time web apps with the MERN stack.
 
 🧠 Exploring Generative AI and enhancing UX with smart automation.
 
@@ -60,14 +60,6 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Gourav123-sys&theme=gruvbox&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Gourav123-sys/Gourav123-sys/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
