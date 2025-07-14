@@ -50,9 +50,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gourav123-sys&theme=tokyonight" alt="streak" />
 </p>
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Gourav123-sys&theme=tokyo-night&hide_border=true" alt="activity" />
-</p>
+
 
 ---
 
